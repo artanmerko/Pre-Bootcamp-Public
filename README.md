@@ -1,2 +1,2 @@
-# re bootcamp 
+# Pre-bootcamp 
 Coding Dojo, Pre Bootcamp
